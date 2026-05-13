@@ -162,7 +162,7 @@ body{
    }
    .cajaimgproyectconta{
     width: 600px;
-    margin-left: -10px;
+    margin-left:30px;
     margin-top: 30px;  
 }
 .cajavideoconta{
@@ -207,6 +207,11 @@ body{
     color: rgb(28, 17, 1);
     margin-left: 20px;
 }
+.cajaimgproyectologica{
+    width: 600px;
+    margin-left:30px;
+    margin-top: 22px; 
+}
 .footerproyectologica{
     margin-top: 20px;
     color: rgb(28, 17, 1);
@@ -227,8 +232,29 @@ body{
     margin-left: 800px;
     margin-top: -880px;
 }
+.cajaimgproyectointro{
+    width: 600px;
+    margin-left:30px;
+    margin-top: 5px;  
+}
 .footerproyecto1{
     margin-top: 30px;
     color: rgb(28, 17, 1);
     margin-left: 20px;
+}
+.cajavideo2{
+    margin-left: 800px;
+    margin-top: -780px;
+}
+.cajavideo3{
+    margin-left: 800px;
+    margin-top: -830px;
+}
+.cajavideo4{
+    margin-left: 850px;
+    margin-top: -770px;
+}
+.cajavideo5{
+    margin-left: 850px;
+    margin-top: -850px;
 }
