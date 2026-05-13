@@ -155,3 +155,22 @@ body{
     color: rgb(28, 17, 1);
     margin-left: 20px;
 }
+.cajacolorconta{
+   background-color: #FAFAD2; 
+   height: 900px;
+   padding: 5px;
+   }
+   .cajaimgproyectconta{
+    width: 600px;
+    margin-left: -10px;
+    margin-top: 30px;  
+}
+.cajavideoconta{
+    margin-left: 800px;
+    margin-top: -750px;
+}
+.footerproyectoconta{
+    margin-top: 20px;
+    color: rgb(28, 17, 1);
+    margin-left: 20px;
+}
