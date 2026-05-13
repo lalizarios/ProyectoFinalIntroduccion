@@ -141,7 +141,7 @@ body{
 .img2p{
     height: 250px;
     margin-left: 800px;
-    margin-top: -300px;    
+    margin-top: -320px; 
 }
 .cajavideo{
     margin-left: 800px;
@@ -209,6 +209,26 @@ body{
 }
 .footerproyectologica{
     margin-top: 20px;
+    color: rgb(28, 17, 1);
+    margin-left: 20px;
+}
+.cajacolorintro{
+   background-color: #FAFAD2; 
+   height: 1110px;
+   padding: 5px;
+   }
+.linksintro{
+    margin-top: -280px;
+    display: flex; gap:5px;
+    width: 1000px;
+    margin-left: 5px;
+}
+.cajavideo1{
+    margin-left: 800px;
+    margin-top: -880px;
+}
+.footerproyecto1{
+    margin-top: 30px;
     color: rgb(28, 17, 1);
     margin-left: 20px;
 }
