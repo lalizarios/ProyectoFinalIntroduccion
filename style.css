@@ -69,3 +69,58 @@ body{
     margin-left: 400px;
     margin-top: -150px;
 }
+.cajacolorcurso{
+   background-color: #FAFAD2; 
+   height: 550px;
+   padding: 5px;
+ }
+ .curso{
+   margin-top: 30px;
+    margin-left: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.comp{
+   margin-top: 20px;
+    margin-left: 50px;
+    font-size: 30px;
+    font-weight: bolder;
+ }
+ .cajacomp{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 800px;
+    padding: 10px;
+    
+}
+
+.imgcurso{
+    margin-left: 850px;
+    margin-top: -300px;
+}
+.indicador{
+    margin-top: -40px;
+    margin-left: 50px;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-bottom: 40px;
+}
+
+.link{
+    color: rgb(28, 17, 1);
+    position: relative;
+    background: #acac82;;
+    border-radius: 60px;
+    box-shadow: 0 15px 35px #a5a58a;
+    border: 0.5px solid #ccc;
+    margin-left: 40px;
+    text-decoration: none;
+    padding: 15px 20px;
+    margin-top: 300px;
+}
+.footer{
+     color: rgb(28, 17, 1);
+     margin-top: 20px;
+     margin-left: 20px;
+}
