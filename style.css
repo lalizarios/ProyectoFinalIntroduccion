@@ -124,3 +124,34 @@ body{
      margin-top: 20px;
      margin-left: 20px;
 }
+.cajacolor{
+   background-color: #FAFAD2; 
+   height: 1050px;
+   padding: 5px;
+}
+.cajaimgproyect{
+    width: 600px;
+    margin-left: -10px;
+    margin-top: 20px;  
+}
+.imgproyect{
+    height: 300px;
+    
+}
+.img2p{
+    height: 250px;
+    margin-left: 800px;
+    margin-top: -300px;    
+}
+.cajavideo{
+    margin-left: 800px;
+    margin-top: -850px;
+}
+.video{
+    width: 600px;
+}
+.footerproyecto{
+    margin-top: 550px;
+    color: rgb(28, 17, 1);
+    margin-left: 20px;
+}
