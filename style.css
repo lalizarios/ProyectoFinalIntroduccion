@@ -151,7 +151,7 @@ body{
     width: 600px;
 }
 .footerproyecto{
-    margin-top: 550px;
+    margin-top: 530px;
     color: rgb(28, 17, 1);
     margin-left: 20px;
 }
@@ -173,28 +173,6 @@ body{
     margin-top: 20px;
     color: rgb(28, 17, 1);
     margin-left: 20px;
-}
-.navtitlem{
-    font-weight: bold;
-    font-size: 23px;
-    margin-top: 5px;
-    margin-left: 30px;
-    color: white;
-}
-.itemm{
-    color: white;
-    text-decoration: none;  
-    margin-left: 40px;
-    padding: 5px;
-}
-
-.nav-itemm{
-    margin-top: -8px;
-}
-.libro{
-    margin-left: 1px;
-    margin-top: -25px;
-    color: white;
 }
 .img2pmetodologia{
     height: 350px;
